@@ -1,0 +1,7 @@
+python-dotenv
+psycopg2
+feedparser
+Pillow
+git+git://github.com/codelucas/newspaper
+Django
+clint
